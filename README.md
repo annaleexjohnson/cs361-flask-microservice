@@ -1,4 +1,4 @@
-The primary microservice is stored in the app.py file.
+To start, type flask run in the command line. The primary microservice is stored in the app.py file.
 
 For the sake of testing, this respository has an index.html file in the templates folder, as well as a sample data dictionary which is imported into the app.py file. These can be changed to suit the project's needs, as long as the data structure is iterable. 
 
